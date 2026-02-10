@@ -27,10 +27,9 @@ This project helped me build confidence working with real datasets and using Pyt
 
 
 ### Tools used
-'''
-Python
-Pandas
-NumPy
-Matplotlib
-'''
+
+Python,
+Pandas,
+NumPy,
+Matplotlib.
 
