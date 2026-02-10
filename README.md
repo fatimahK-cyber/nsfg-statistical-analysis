@@ -5,7 +5,7 @@ This project works with a real-world public health dataset from the National Sur
 
 The goal of this project was to practice working with a large dataset, apply statistical analysis using Python, and explore relationships between different variables through visualization.
 
-#Dataset overview
+# Dataset overview
 
 The dataset includes information such as:
 caseid, a unique ID for each respondent
@@ -19,14 +19,14 @@ agepreg, the mother’s age at the end of the pregnancy
 
 The dataset contains 13,593 rows and 244 columns and is publicly available for educational and research use.
 
-#What I did in this project
+# What I did in this project
 
 I loaded and explored the dataset using Pandas, cleaned and processed the data, and handled missing values where needed. I calculated summary statistics such as mean, variance, standard deviation, and quantiles to better understand the data. I also created visualizations like histograms and scatter plots to look at distributions and relationships between variables.
 
 This project helped me build confidence working with real datasets and using Python for data analysis and reporting. It focuses on understanding the data, exploring patterns, and clearly presenting results.
 
 
-#Tools used
+# Tools used
 
 Python
 Pandas
