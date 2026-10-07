@@ -25,8 +25,6 @@ I loaded and explored the dataset using Pandas, cleaned and processed the data, 
 
 I also built a linear regression model using the FemPreg dataset to explore the relationship between the mother’s age at pregnancy (agepreg) and birth weight (totalwgt_lb). The goal was to see whether maternal age had a measurable relationship with birth weight.
 
-This project helped me build familiarity working with datasets and using Python for data analysis and reporting. It focuses on understanding the data, exploring patterns, and clearly presenting results.
-
 
 ### Tools used
 
